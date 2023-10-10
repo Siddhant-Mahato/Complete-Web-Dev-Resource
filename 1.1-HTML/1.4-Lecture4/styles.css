@@ -1,0 +1,16 @@
+<style>
+      html {
+        scroll-behavior: smooth;
+      }
+
+      #div2 {
+        background-color: rgb(99, 156, 206);
+      }
+
+      aside{
+        width: 50%;
+        float: right;
+        background-color: aliceblue;
+        border: 2px solid #bad215;
+      }
+</style>

@@ -1,6 +1,7 @@
 Q1 - Difference between Header vs H1 
 Ans : https://www.quora.com/What-is-the-difference-between-a-header-and-h1-tag
 
+
 Q2 - Can we use Header tag inside Footer
 Ans : No
 

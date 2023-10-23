@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;       /* ! PADDING AND BORDER ADD THEN BOX SIZE SAME , AND EFFECT TO CENTENT ITSELF */
+}
+html,
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f4f4f4;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;                /*  FOR CONTENT TO BE AT CENTER */
+  padding: 20px;                 /*  BORDER AND CONTENT KE BICH KI SPACE */
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.container {
+  display: flex;                   /* TO HAVE REQUIRED SPACE */
+  justify-content: space-between;
+  flex-wrap: wrap;                /* SO NOT TO MAKE ALL ELEMENT AT A SINGLE ROW AND IF ELE WON'T BE ABLE TO THEN WILL COME AT NEXT LINE */
+}
+
+.wrapper h1 {
+  margin: 20px auto;
+  text-align: center;            /* TO MAKE CONTENT AT CENTER */
+  font-size: 40px;
+  color: rgb(51, 51, 51);
+  /* color: #333333; */
+}
+
+.card {
+  width: 32%;                    /* TO HAVE 3 IMAGE A LINE  */
+  overflow: hidden;
+  height: auto;
+  border-radius: 10px;           /* TO MAKE BORDER CORNER ROUNDED */
+  margin-bottom: 20px;
+  position: relative;            /* TO MAKE THE FIGCAPTION AS ABSOLUTE */
+  transition: 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card img {
+  height: 100%;                  /* TO MAKE IMAGE CORNER ROUNDED BASED ON PARENT : FLEX HEIGHT PURA LEGA BUT CONTENT SHI KREGA */
+  width: 100%;                   /* YAHA IMAGE KA PARENT ELEMENT KA JITNA WIDTH HAI UTNA IMAGE KA WIDTH HO JIEGA */
+  filter: grayscale(100%);       /* BLACK WHOLE */
+  object-fit: cover;
+}
+
+.card:hover {
+    transform: scale(1.03);      /* TO MAKE IMAGE A BIT MORE WHEN DOING HOVER */
+    filter: drop-shadow(0 0 10px #333);   /* SHADOW FILTER LANE KE LIE */
+}
+
+.card:hover img {
+    filter: grayscale(0);         /* TO GET BACK THE MAIN COLOR */
+}
+
+.card figcaption{
+    position: absolute;
+    bottom: 0;
+    width: fit-content;          
+    height: 16%;                 /* ! YAHA PAR HEIGHT BASED ON THE PARENT AIEGA I.E WRT CARD */
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0) 100%);
+    color: #fff;
+    padding: 25px;
+    opacity: 0;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.card:hover figcaption{
+    opacity: 1;
+    bottom: 40%;
+    transform: translateY(-50%) rotate(360deg);
+    transition: 1s;
+}

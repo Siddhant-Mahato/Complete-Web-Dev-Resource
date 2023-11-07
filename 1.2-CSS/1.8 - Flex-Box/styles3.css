@@ -1,0 +1,27 @@
+
+
+<style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      .flex-box {
+        width: 350px;
+        height: 250px;
+        background-color: aquamarine;
+        border: 2px solid red;
+        display: flex;
+
+        flex-wrap: wrap;    /*width ko intact rak pa rhe hai (14.00) next line par shift*/
+        flex-wrap: nowrap;  /* default squeez but not shift to next lin */
+        flex-wrap: wrap-reverse;  /* squeez to ele will go up not down */
+      }
+
+      .flex-item {
+        width: 100px;
+        height: 100px;
+        background-color: aqua;
+        border: 2px solid blue;
+      }
+</style>

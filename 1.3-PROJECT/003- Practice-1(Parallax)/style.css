@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  perspective: 11px;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  transform-style: preserve-3d;
+  z-index: -1;
+}
+
+.bg {
+  transform: translateZ(-49px) scale(6);
+  /* z-index: 2; */
+}
+
+.fg {
+  transform: translateZ(-34px) scale(2);
+  /* z-index: 3; */
+}
+
+.bg,
+.fg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  object-fit: cover;
+}
+
+h1 {
+  position: absolute;
+  top: 3rem;
+  letter-spacing: 4px;
+  font-size: 7rem;
+  color: white;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  margin: 0;
+  font-family: "Gill Sans", sans-serif;
+}

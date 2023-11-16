@@ -1,0 +1,31 @@
+<style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        .container{
+            display: grid;
+            /* width: 100vw; */
+            height: 400px;
+            background-color: aqua;
+            /* overflow-y: hidden; */
+            grid-template-columns: 100px 1fr 1fr; 
+            grid-template-rows: 30px 1fr 30px;
+            gap: 3px;
+        }
+
+        .box{
+            background-color: red;
+            border: 2px solid black;
+        }
+
+        #star,#star1{
+            grid-column-start: 1;
+            grid-column-end: 4;
+        }
+        #star3{
+            grid-column-start: 2;
+            grid-column-end: 3;
+        }
+</style>

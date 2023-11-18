@@ -9,7 +9,7 @@
             height: 150px;
             background-color: aquamarine;
             border: 2px solid red;
-            display: flex;
+            display: flex;    // By Doing This The Elements Be In Horizontal Direction
         }
 
         .flex-item{

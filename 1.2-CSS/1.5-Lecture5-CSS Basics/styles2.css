@@ -1,0 +1,50 @@
+  <style>
+      /* Select By Tag Name */
+      div {
+        width: 400px;
+        height: 300px;
+        border: 2px solid black;
+        padding: 40px;
+        background-color: aliceblue;
+      }
+
+      h1 {
+        background-color: yellow;
+      }
+
+      p {
+        background-color: beige;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      ul li {
+        font-weight: 500;
+      }
+
+      .test
+      {
+        text-align: center;
+        padding: 5px;
+        margin: 7px;
+        background-color: aquamarine;
+        font-size: 16px;
+        border: 2px solid red;
+        border-radius: 4px;
+        transition: 0.5s;
+      }
+
+      #over:hover{
+        background-color: red;
+        color: yellow;
+      }
+
+      #focus:focus{
+        background-color: yellow;
+        color: red;
+
+      }
+
+
+    </style>

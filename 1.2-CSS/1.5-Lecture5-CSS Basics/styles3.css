@@ -1,0 +1,47 @@
+
+    <style>
+      /* Select By Tag Name */
+      div {
+        width: 300px;
+        height: 600px;
+        border: 2px solid black;
+        padding: 40px;
+        background-color: aliceblue;
+      }
+
+      h1 {
+        background-color: yellow;
+      }
+
+      p {
+        color: red;
+        font-weight: 600;
+        font-style: italic;
+      }
+
+      li {
+        font-size: 17px;
+        font-weight: 700;
+      }
+
+      span{
+        background-color: tomato;
+        height: 100px;
+        width: 100px;
+        display: block;
+        padding: 25px;
+      }
+
+      .container
+      {
+        background-color: blanchedalmond;
+        border: 2px solid red;
+      }
+
+      #spanContainer
+      {
+        border: 2px solid black;
+        font-size: 18px;
+      }
+
+    </style>

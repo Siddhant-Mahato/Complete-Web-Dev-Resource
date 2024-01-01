@@ -1,0 +1,32 @@
+<style>
+      /* Select By Tag Name */
+      div {
+        width: 300px;
+        height: 800px;
+        border: 2px solid black;
+        padding: 40px;
+        background-color: aliceblue;
+      }
+
+      h1 {
+        background-color: yellow;
+      }
+
+      p {
+        color: red;
+        font-weight: 600;
+        font-style: italic;
+      }
+
+      li {
+        font-size: 17px;
+        font-weight: 700;
+      }
+      .code {
+        background-color: black;
+        color: white;
+        border-radius: 8px;
+        padding: 15px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+    </style>

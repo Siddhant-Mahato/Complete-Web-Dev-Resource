@@ -1,0 +1,16 @@
+<style>
+      p {
+        float: left;
+        width: 60%;
+      }
+      aside {
+        width: 30%;
+
+        text-align: center;
+        padding-left: 25px;
+        margin-left: 25px;
+        float: right;
+        font-style: italic;
+        background-color: lightgray;
+      }
+</style>

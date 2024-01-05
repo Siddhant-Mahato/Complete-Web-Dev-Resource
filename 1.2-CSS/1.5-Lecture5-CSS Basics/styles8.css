@@ -1,0 +1,15 @@
+ <style>
+        @font-face {
+            font-family: externals;
+            src: url(../adventpro/adventpro-bold.ttf);
+        }
+        div > p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+            font-weight: 300;
+            font-style: italic;
+            text-emphasis:filled sesame red;
+            font-family: externals;
+        }
+
+    </style>

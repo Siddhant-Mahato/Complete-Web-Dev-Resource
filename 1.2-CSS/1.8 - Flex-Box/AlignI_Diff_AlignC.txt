@@ -1,0 +1,36 @@
+`align-items` and `align-content` are both CSS properties used in the context of flexbox or grid layouts to control the alignment of items within a container. Let's break down the differences with simple examples:
+
+`align-items`:
+
+
+- **Applies to:** Flex containers.
+- **Controls:** Alignment of flex items along the cross-axis (vertical axis for a row layout, horizontal axis for a column layout).
+- **Values:** `flex-start`, `flex-end`, `center`, `baseline`, `stretch`.
+Example:
+css
+  .container {
+    display: flex;
+    align-items: center; /* Align items at the center of the cross-axis */
+  }
+
+
+
+`align-content`:
+
+
+- **Applies to:** Flex containers with multiple lines (when `flex-wrap: wrap` is used).
+- **Controls:** Alignment of lines within the flex container along the cross-axis.
+- **Values:** `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `stretch`.
+- **Example:**
+  ```css
+  .container {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap onto new lines */
+    align-content: space-between; /* Spread lines evenly along the cross-axis with space between them */
+  }
+  ```
+Summary:
+- `align-items` works on the individual items inside the container, aligning them along the cross-axis.
+- `align-content` works on the entire lines within the container when there are multiple lines due to wrapping, aligning them along the cross-axis.
+
+Remember, these properties are most commonly used in flexbox layouts, but they can also be used in grid layouts with similar functionality.

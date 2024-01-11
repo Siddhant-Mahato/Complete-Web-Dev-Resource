@@ -1,0 +1,40 @@
+<style>
+        .box
+        {
+            height: 200px;
+            width: 200px;
+            border: 2px solid red;
+            display: inline-block;
+            font-weight: 900;
+            box-sizing: border-box;
+            margin: 5px;
+        }
+
+        #box1{
+            background-image: linear-gradient(yellow,green);
+        }
+
+        #box2{
+            background-image: linear-gradient(orange,green,red);
+        }
+        #box3{
+            background-image: linear-gradient( to top,orange,white);
+        }
+
+        #box4{
+            background-image: linear-gradient(to right,tomato,pink);
+        }
+
+        #box5{
+            background-image: linear-gradient(to left,salmon,orange);
+        }
+        #box6{
+            background-image: linear-gradient(to top left,purple,blue);
+        }
+        #box7{
+            background-image: linear-gradient(to bottom left,purple,blue);
+        }
+        #box8{
+            background-image: linear-gradient(to  left top,rgb(255, 0, 255),rgb(161, 161, 255));
+        }
+    </style>

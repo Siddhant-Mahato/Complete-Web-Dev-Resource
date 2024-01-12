@@ -1,0 +1,37 @@
+ <style>
+      .box {
+        height: 200px;
+        width: 200px;
+        border: 2px solid red;
+        display: inline-block;
+        font-weight: 900;
+        box-sizing: border-box;
+        margin: 5px;
+      }
+
+      #box1 {
+        background-image: radial-gradient(yellow, #126404);
+      }
+
+      #box2 {
+        background-image: radial-gradient(circle, pink, blue);
+      }
+      #box3 {
+        background: radial-gradient(
+          circle at 100%,
+          #333,
+          #333 50%,
+          #eee 75%,
+          #333 75%
+        );
+      }
+
+      #box4 {
+        background-image: radial-gradient(ellipse, #30abc2, #0fd31f);
+      }
+
+      #box5 {
+        background-image: radial-gradient(ellipse,yellow 10%,red 20%,blue 40%,pink 50%);
+      }
+    
+    </style>

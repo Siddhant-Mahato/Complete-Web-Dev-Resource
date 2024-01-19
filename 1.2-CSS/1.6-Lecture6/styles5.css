@@ -1,0 +1,37 @@
+ <style>
+      .box {
+        height: 200px;
+        width: 200px;
+        border: 2px solid red;
+        display: inline-block;
+        font-weight: 900;
+        box-sizing: border-box;
+        margin: 5px;
+      }
+
+      #box1 {
+        box-shadow: 5px 5px;
+      }
+
+      #box2 {
+      box-shadow: 5px 5px 10px;
+      }
+      #box3 {
+       box-shadow: 5px 5px 10px 2px ;
+      }
+
+      #box4 {
+       box-shadow: 5px 5px 10px 2px red inset,-5px -5px 10px 2px yellow;
+      }
+
+      #box5 {
+      box-shadow: 10px 10px 5px 10px rgba(14, 56, 264, 0.9),20px 20px 5px 10px rgba(114, 156, 4, 0.7);
+      }
+
+      
+      #box6 {
+       box-shadow: 5px 5px 10px 2px red inset,-5px -5px 10px 2px yellow,5px 5px 10px 2px red ,-5px -5px 10px 2px yellow inset;
+      }
+
+
+    </style>

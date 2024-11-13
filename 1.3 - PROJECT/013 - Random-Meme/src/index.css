@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 /* css background-image generated using https://10015.io/tools/css-background-pattern-generator */
+
+
 .background {
   background-image: radial-gradient(#ffffff 2.5px, transparent 2.5px),
     radial-gradient(#ffffff 2.5px, transparent 2.5px);

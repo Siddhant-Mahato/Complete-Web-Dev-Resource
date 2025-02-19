@@ -1,4 +1,4 @@
-// Three wAys to create variable
+// Three wAys to create variable in JS
 
 // #1
 

@@ -1,7 +1,10 @@
 // Data Types 
 
 // Primitive Data Types 
+
+
 // #1 - String
+
 let firstName = "priyansh";
 let lastName = 'patel';
 let fullName = firstName + " " + lastName;
@@ -9,6 +12,8 @@ let fullName = firstName + " " + lastName;
 console.log(firstName);
 console.log(lastName);
 console.log(fullName);
+
+
 
 // #2 - Number 
 let num = 10.6;

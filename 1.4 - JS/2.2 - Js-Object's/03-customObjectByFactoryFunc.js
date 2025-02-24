@@ -1,4 +1,6 @@
 // Factory Function is a fucntion which produces objects when we called it
+
+
 function createRectangle(length,breadth) {
   const rectangle = {
     length,

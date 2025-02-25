@@ -1,5 +1,6 @@
 // If Else 
 // #1 - Single If Else
+
 let number = 10;
 if(number > 10)
 {

@@ -1,5 +1,7 @@
 // #1 - Arithemetic Operator 
+
 // + - / * % ++ -- 
+
 
 console.log("Arithemetic Operator");
 let num1 = 10;

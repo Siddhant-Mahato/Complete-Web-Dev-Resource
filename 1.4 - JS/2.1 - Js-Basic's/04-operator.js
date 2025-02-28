@@ -22,6 +22,7 @@ console.log(++num1 - --num2); // 11 17 -6
 console.log(++num1 + --num2); // 12 16 28
 
 // #2 - Assignment Operator 
+
 // = += -= *= /= %=
 
 console.log("Assignment Operator");

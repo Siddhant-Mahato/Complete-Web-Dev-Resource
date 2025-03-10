@@ -1,4 +1,5 @@
-# Function Creation
+# Function Creation Way
+
 
 const rectangle = {
     length: 2,

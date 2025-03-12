@@ -17,6 +17,8 @@ function createRectangle(length,breadth) {
   return rectangle;
 }
 
+
+
 let rectangle1 = createRectangle(5,6);
 console.log(rectangle1.length);
 rectangle1.area();

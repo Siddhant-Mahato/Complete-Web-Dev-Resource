@@ -1,6 +1,5 @@
 // Function of add two numbers 
 
-
 function addTwoNumbers(a,b)
 {
     let sum = a+b;

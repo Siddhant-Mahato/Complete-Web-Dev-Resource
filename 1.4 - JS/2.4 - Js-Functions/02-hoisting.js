@@ -1,5 +1,5 @@
 
-// Hoisting 
+// Hoisting Way
 
 "use strict";
 // Not declared but it gives output 

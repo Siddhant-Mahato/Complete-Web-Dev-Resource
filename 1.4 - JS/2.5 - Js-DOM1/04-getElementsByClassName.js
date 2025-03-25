@@ -1,3 +1,4 @@
+# Way to use getElementsByClassName 
 
 let element = document.getElementsByClassName('nextSlide');
 

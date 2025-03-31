@@ -2,6 +2,7 @@
 
 // #1 - class 
 let classItem = document.querySelector('.nextSlide');
+
 console.log(classItem);
 
 // #2 - id 

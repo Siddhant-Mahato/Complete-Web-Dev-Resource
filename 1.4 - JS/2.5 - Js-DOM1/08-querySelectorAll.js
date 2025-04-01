@@ -1,6 +1,6 @@
 // We can select anything by querySelectorAll 
 
-// #1 - class 
+// #1 - Via Help Of class Name 
 let classItem = document.querySelectorAll('.nextSlide');
 console.log(classItem);
 

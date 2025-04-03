@@ -1,5 +1,8 @@
+
 let list = document.querySelector('#list');
+
 console.log(list.outerHTML);
+
 // o/p 
 // <ul id="list">
 //         <li><a href="#">Item 1</a></li>

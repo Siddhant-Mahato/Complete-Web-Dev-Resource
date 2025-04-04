@@ -1,3 +1,4 @@
+
 let person = {
     firstName : "Priyash",
     lastName : "Patel",
@@ -20,6 +21,7 @@ let person = {
         this.lastName = name[1];
     }
 }
+
 
 console.log(person.fullName);
 person.fullName = "Khushi Patel";

@@ -23,9 +23,11 @@ let person = {
 }
 
 
+
 console.log(person.fullName);
 person.fullName = "Khushi Patel";
 console.log(person.fullName);
+
 
 try{
     person.fullName = true;

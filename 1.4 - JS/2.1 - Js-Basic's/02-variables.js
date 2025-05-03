@@ -18,6 +18,7 @@ console.log(a);
 
 // #2 - Let
 
+
 console.log("Let");
 let b = 10;
 console.log(b);

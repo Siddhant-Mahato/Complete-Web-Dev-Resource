@@ -10,7 +10,9 @@ let lastName = 'patel';
 let fullName = firstName + " " + lastName;
 
 console.log(firstName);
+
 console.log(lastName);
+
 console.log(fullName);
 
 

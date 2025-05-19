@@ -23,6 +23,7 @@ console.log(a);
 
 
 console.log("Let");
+
 let b = 10;
 console.log(b);
 

@@ -25,6 +25,7 @@ console.log(a);
 console.log("Let");
 
 let b = 10;
+
 console.log(b);
 
 // let b = 20; - Error

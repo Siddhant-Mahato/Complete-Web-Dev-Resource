@@ -35,7 +35,6 @@ console.log(b);
 
 {
   let ba = 40;
-    
   console.log(ba);
 }
 // console.log(ba); - Error

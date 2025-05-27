@@ -41,6 +41,7 @@ console.log(b);
 // console.log(ba); - Error
 
 // #3 
+
 console.log("const");
 
 const c = 10;

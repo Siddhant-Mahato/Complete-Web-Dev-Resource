@@ -6,6 +6,7 @@
 // #1 - String
 
 let firstName = "priyansh";
+
 let lastName = 'patel';
 let fullName = firstName + " " + lastName;
 

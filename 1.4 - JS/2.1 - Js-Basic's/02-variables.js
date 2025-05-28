@@ -49,4 +49,5 @@ const c = 10;
 console.log(c);
 
 // c = 20; //Error
+
 console.log(c);

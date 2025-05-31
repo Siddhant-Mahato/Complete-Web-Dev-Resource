@@ -2,7 +2,6 @@
 
 // Primitive Data Types 
 
-
 // #1 - String
 
 let firstName = "priyansh";

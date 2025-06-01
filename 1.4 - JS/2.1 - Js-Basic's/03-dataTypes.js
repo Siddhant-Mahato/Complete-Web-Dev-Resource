@@ -21,6 +21,7 @@ console.log(fullName);
 // #2 - Number 
 
 let num = 10.6;
+
 console.log(num);
 
 num = 10;

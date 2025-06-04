@@ -35,6 +35,7 @@ bool ? console.log("True") : console.log("False");
 
 // #4 - Undefined
 let x;
+
 console.log(x);
 
 // #5 - Null

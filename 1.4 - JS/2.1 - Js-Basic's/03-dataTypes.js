@@ -46,6 +46,7 @@ console.log(y);
 // #1 - Arary 
 
 let arr = [1, 2, 3, 4, 5];
+
 console.log(arr);
 
 arr = ['my','name','is','Priyansh'];

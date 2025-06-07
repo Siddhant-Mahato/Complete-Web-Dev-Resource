@@ -28,6 +28,7 @@ num = 10;
 console.log(num);
 
 // #3 - Boolean
+
 let bool = true;
 
 bool ? console.log("True") : console.log("False");

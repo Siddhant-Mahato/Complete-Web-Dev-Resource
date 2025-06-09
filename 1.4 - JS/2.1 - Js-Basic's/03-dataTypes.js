@@ -40,6 +40,7 @@ let x;
 console.log(x);
 
 // #5 - Null
+
 let y = null;
 
 console.log(y);

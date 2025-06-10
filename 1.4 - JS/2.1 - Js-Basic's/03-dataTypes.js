@@ -46,6 +46,7 @@ let y = null;
 console.log(y);
 
 // Non - Primitive 
+
 // #1 - Arary 
 
 let arr = [1, 2, 3, 4, 5];

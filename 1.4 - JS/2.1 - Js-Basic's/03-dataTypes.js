@@ -56,6 +56,7 @@ console.log(arr);
 arr = ['my','name','is','Priyansh'];
 
 console.log(arr);
+
 console.log(arr[0]);
 
 // #2 - Object 

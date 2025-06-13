@@ -61,7 +61,8 @@ console.log(arr[0]);
 
 // #2 - Object 
 
-let obj = {
+let obj = 
+{
     "Name" : 'Priyansh',
     "Age" : 20
 };

@@ -67,4 +67,5 @@ let obj =
     "Age" : 20
 };
 
+
 console.log(obj["Name"]);

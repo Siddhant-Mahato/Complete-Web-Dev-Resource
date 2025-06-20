@@ -15,6 +15,7 @@ console.log(num1 - num2);
 console.log(num1 * num2);
 
 console.log(num1 / num2);
+
 console.log(num1 % num2);
 
 console.log("Post and Pre Increment and Decrement");

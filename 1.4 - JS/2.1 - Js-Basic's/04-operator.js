@@ -27,6 +27,7 @@ console.log(++num1 + num2--); // 12 20 33
 console.log(num1-- - num2--); // 11 19 -8
 
 console.log(num1-- - --num2); // 10 18 -7
+
 console.log(++num1 - --num2); // 11 17 -6  
 console.log(++num1 + --num2); // 12 16 28
 

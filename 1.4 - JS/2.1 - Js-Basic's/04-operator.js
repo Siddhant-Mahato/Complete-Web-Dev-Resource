@@ -39,6 +39,7 @@ console.log(++num1 + --num2); // 12 16 28
 console.log("Assignment Operator");
 
 let a = 5;
+
 console.log(a); //5
 a+=a;
 console.log(a); //10

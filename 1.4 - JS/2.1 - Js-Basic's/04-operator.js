@@ -43,6 +43,7 @@ let a = 5;
 console.log(a); //5
 
 a+=a;
+
 console.log(a); //10
 a-=4;
 console.log(a); //6

@@ -47,6 +47,7 @@ a+=a;
 console.log(a); //10
 
 a-=4;
+
 console.log(a); //6
 a*=5;
 console.log(a); //30

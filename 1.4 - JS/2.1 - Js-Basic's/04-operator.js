@@ -53,6 +53,7 @@ console.log(a); //6
 a*=5;
 
 console.log(a); //30
+
 a/=2;
 console.log(a); //15
 a%=7

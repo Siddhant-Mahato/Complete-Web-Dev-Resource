@@ -59,6 +59,7 @@ a/=2;
 console.log(a); //15
 
 a%=7
+
 console.log(a); //1
 
 // #3 - Comparison Operator 

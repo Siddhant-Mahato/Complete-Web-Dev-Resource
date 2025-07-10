@@ -63,6 +63,7 @@ a%=7
 console.log(a); //1
 
 // #3 - Comparison Operator 
+
 console.log("Comparison Operator")
 // == === != !== > < >= <= 
 let n1 = 5;

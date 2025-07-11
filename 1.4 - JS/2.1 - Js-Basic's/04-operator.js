@@ -65,6 +65,7 @@ console.log(a); //1
 // #3 - Comparison Operator 
 
 console.log("Comparison Operator")
+
 // == === != !== > < >= <= 
 let n1 = 5;
 let n2 = '5';

@@ -93,6 +93,7 @@ console.log(n1 < n2);
 // & | ^ ~ << >> >>> 
 
 console.log("Bitwise Operators");
+
 let bo = 10;
 
 console.log(bo & 3); //2

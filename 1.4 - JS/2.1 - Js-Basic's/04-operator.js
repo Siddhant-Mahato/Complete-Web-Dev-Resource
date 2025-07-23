@@ -97,6 +97,7 @@ console.log("Bitwise Operators");
 let bo = 10;
 
 console.log(bo & 3); //2
+
 console.log(bo | 3); //11 
 console.log(bo ^ 3); //9
 console.log(~bo); //

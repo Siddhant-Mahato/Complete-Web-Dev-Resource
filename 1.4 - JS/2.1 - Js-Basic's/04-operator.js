@@ -101,6 +101,7 @@ console.log(bo & 3); //2
 console.log(bo | 3); //11 
 
 console.log(bo ^ 3); //9
+
 console.log(~bo); //
 console.log(bo >> 1); //5
 console.log(bo << 1); //20

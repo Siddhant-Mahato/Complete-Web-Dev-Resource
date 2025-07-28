@@ -107,6 +107,7 @@ console.log(~bo); //
 console.log(bo >> 1); //5
 
 console.log(bo << 1); //20
+
 // console.log(bo >>> 1); //
 
 // #5 - Logical Operator 

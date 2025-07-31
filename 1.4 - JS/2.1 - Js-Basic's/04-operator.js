@@ -115,6 +115,7 @@ console.log(bo << 1); //20
 // && || ! 
 
 let lo1 = true; 
+
 let lo2 = false;
 
 console.log(lo1 && lo2); //False

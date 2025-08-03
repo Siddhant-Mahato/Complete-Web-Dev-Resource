@@ -123,6 +123,7 @@ console.log(lo1 && lo2); //False
 console.log(lo1 || lo2); //True
 
 console.log(!lo1) // False
+
 console.log(!lo2) // True
 
 

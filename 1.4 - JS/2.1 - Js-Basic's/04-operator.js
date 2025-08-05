@@ -130,4 +130,5 @@ console.log(!lo2) // True
 // #6 - Turnary Operator 
 
 let age = 18;
+
 age > 18 ? console.log("You can Vote"): console.log("You can not vote");

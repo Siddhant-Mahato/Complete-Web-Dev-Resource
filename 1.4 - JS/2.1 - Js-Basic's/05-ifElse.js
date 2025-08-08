@@ -14,6 +14,7 @@ else
     console.log("Number is lesser or equal to 10");
 }
 
+
 // #2 - Multiple if else 
 
 if(number < 10)

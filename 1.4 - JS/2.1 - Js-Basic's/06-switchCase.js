@@ -3,6 +3,7 @@
 let weekNumber = 4;
 
 switch (weekNumber) 
+    
 {
     case 1:
         console.log("Monday");

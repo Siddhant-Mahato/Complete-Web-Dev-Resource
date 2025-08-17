@@ -2,9 +2,9 @@
 
 let weekNumber = 4;
 
-switch (weekNumber) 
-    
+switch (weekNumber)    
 {
+        
     case 1:
         console.log("Monday");
         break;

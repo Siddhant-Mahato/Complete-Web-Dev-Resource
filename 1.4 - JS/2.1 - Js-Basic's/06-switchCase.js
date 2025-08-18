@@ -35,4 +35,5 @@ switch (weekNumber)
     
     default:
         console.log("Invalid")
+                
 }

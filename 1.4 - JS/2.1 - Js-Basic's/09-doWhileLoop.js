@@ -1,6 +1,7 @@
 # Implemetaion Of Do-While Loop
 
 let i = 1;
+
 do
 {
     console.log(`${5*i}`);

@@ -1,5 +1,5 @@
 
-// console.log('Hello Jii');
+console.log('Hello Jii');
 
 // let a = 7;
 // console.log(a);
@@ -22,3 +22,4 @@
 // star[4] = "siddu";
 
 console.log(3==3);
+

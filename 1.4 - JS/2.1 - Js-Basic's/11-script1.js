@@ -1,7 +1,7 @@
 
 console.log('Hello Siddhant');
 
-// let a = 7;
+let a = 7;
 // console.log(a);
 
 // const b = 9;
@@ -22,5 +22,6 @@ console.log('Hello Siddhant');
 // star[4] = "siddu";
 
 console.log(3==3);
+
 
 

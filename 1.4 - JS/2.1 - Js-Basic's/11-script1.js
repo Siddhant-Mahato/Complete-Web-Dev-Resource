@@ -5,7 +5,7 @@ let a = 7;
 console.log(a);
 
 const b = 9;
-// // b = 8;
+b = 8;
 
 // let Sname = "siddhant"
 // console.log(Sname);
@@ -22,6 +22,7 @@ const b = 9;
 // star[4] = "siddu";
 
 console.log(3==3);
+
 
 
 

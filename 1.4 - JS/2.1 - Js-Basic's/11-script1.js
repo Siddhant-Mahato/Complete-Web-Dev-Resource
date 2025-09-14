@@ -11,7 +11,7 @@ let Sname = "siddhant"
 console.log(Sname);
 
 Sname = 9;
-// console.log(Sname);
+console.log(Sname);
 
 // Sname = true;
 // console.log(Sname);
@@ -22,6 +22,7 @@ Sname = 9;
 // star[4] = "siddu";
 
 console.log(3==3);
+
 
 
 

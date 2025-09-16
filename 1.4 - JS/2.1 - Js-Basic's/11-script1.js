@@ -14,7 +14,7 @@ Sname = 9;
 console.log(Sname);
 
 Sname = true;
-// console.log(Sname);
+console.log(Sname);
 
 // let star = ["sid",3,true];
 // console.log(star);
@@ -22,6 +22,7 @@ Sname = true;
 // star[4] = "siddu";
 
 console.log(3==3);
+
 
 
 

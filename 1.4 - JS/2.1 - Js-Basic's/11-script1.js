@@ -17,11 +17,12 @@ Sname = true;
 console.log(Sname);
 
 let star = ["sid",3,true];
-// console.log(star);
+console.log(star);
 
 // star[4] = "siddu";
 
 console.log(3==3);
+
 
 
 

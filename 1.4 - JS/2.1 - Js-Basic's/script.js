@@ -6,6 +6,7 @@ console.log("Version2");
 var num1;
 var num1;
 
+
 let n1;
 // let n1; error
 

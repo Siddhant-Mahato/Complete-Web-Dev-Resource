@@ -10,6 +10,7 @@ var num1;
 
 
 let n1;
+
 // let n1; error
 
 // Dynamic Typing

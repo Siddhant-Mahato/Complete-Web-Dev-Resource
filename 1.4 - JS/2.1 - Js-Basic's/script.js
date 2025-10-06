@@ -13,6 +13,7 @@ let n1;
 
 // let n1; error
 
+
 // Dynamic Typing
 let a = 5;
 console.log(a);

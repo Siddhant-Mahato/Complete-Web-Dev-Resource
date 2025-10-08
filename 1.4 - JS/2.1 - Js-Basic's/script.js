@@ -17,6 +17,7 @@ let n1;
 // Dynamic Typing
 
 let a = 5;
+
 console.log(a);
 a = "Priyansh Patel";
 console.log(a);

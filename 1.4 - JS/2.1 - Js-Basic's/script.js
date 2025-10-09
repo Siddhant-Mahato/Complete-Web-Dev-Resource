@@ -19,6 +19,7 @@ let n1;
 let a = 5;
 
 console.log(a);
+
 a = "Priyansh Patel";
 console.log(a);
 

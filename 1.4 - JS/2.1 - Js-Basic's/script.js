@@ -20,7 +20,8 @@ let a = 5;
 
 console.log(a);
 
-a = "Priyansh Patel";
+a = "Priyansh Patel
+  
 console.log(a);
 
 // Reference Type

@@ -27,6 +27,7 @@ console.log(a);
 // Reference Type
 
 // #1 - Object
+
 const obj = {
   Name: "Priyansh",
   Age: "##",

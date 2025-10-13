@@ -28,7 +28,8 @@ console.log(a);
 
 // #1 - Object
 
-const obj = {
+const obj = 
+{
   Name: "Priyansh",
   Age: "##",
 };

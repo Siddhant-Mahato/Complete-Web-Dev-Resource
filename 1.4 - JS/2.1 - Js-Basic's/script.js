@@ -35,6 +35,7 @@ const obj =
 };
 
 // #2 - Array
+
 let arr = ["Priyansh", 00];
 
 // Operator

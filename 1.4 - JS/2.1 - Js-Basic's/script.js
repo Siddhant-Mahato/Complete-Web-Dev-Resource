@@ -42,6 +42,7 @@ let arr = ["Priyansh", 00];
 
 
 // Arithmetic
+
 let number1 = 10;
 let number2 = 20;
 

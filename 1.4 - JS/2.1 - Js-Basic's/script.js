@@ -50,6 +50,7 @@ let number2 = 20;
 let ans = number1 + number2;
 
 console.log(ans);
+
 ans = number1 - number2;
 console.log(ans);
 ans = number1 * number2;

@@ -62,6 +62,7 @@ console.log(ans);
 ans = number1 / number2;
 
 console.log(ans);
+
 ans = number1 ** number2;
 console.log(ans);
 // etc

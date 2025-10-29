@@ -78,6 +78,7 @@ console.log(ans);
 // > < <= >= === != etc
 
 // Turnary Operator 
+
 // condition ? true : false;
 
 // ETC 

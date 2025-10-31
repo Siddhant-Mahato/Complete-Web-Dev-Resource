@@ -71,7 +71,7 @@ console.log(ans);
 
 # Assignment Operator 
 
-// = += -= *= /= etc
+= += -= *= /= etc
 
 // Comparison Operator 
 

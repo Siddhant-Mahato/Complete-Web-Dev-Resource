@@ -73,7 +73,7 @@ console.log(ans);
 
 = += -= *= /= etc
 
-// Comparison Operator 
+# Comparison Operator 
 
 // > < <= >= === != etc
 

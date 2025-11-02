@@ -75,7 +75,7 @@ console.log(ans);
 
 # Comparison Operator 
 
-// > < <= >= === != etc
+> < <= >= === !=  # etc
 
 // Turnary Operator 
 

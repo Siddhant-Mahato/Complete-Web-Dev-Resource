@@ -79,6 +79,6 @@ console.log(ans);
 
 # Turnary Operator 
 
-// condition ? true : false;
+condition ? true : false;
 
 // ETC 

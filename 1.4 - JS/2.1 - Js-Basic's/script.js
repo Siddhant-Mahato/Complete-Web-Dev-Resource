@@ -2,7 +2,7 @@
 
 console.log("Version2");
 
-// VAriables
+# Variables
 
 var num1;
 

@@ -41,7 +41,7 @@ let arr = ["Priyansh", 00];
 // Operator
 
 
-// Arithmetic
+# Arithmetic
 
 let number1 = 10;
 

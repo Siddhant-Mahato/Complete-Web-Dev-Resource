@@ -14,7 +14,7 @@ let n1;
 // let n1; error
 
 
-// Dynamic Typing
+# Dynamic Typing
 
 let a = 5;
 

@@ -38,7 +38,7 @@ const obj =
 
 let arr = ["Priyansh", 00];
 
-// Operator
+# Operator
 
 
 # Arithmetic

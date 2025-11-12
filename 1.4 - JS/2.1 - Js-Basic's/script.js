@@ -26,7 +26,7 @@ console.log(a);
 
 // Reference Type
 
-// #1 - Object
+#1 - Object
 
 const obj = 
 {

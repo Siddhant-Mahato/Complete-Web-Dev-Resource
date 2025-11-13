@@ -11,7 +11,7 @@ var num1;
 
 let n1;
 
-// let n1; error
+ // let n1; error
 
 
 # Dynamic Typing
@@ -24,7 +24,7 @@ a = "Priyansh Patel
   
 console.log(a);
 
-// Reference Type
+# Reference Type
 
 #1 - Object
 

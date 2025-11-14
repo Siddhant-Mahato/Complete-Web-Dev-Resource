@@ -34,7 +34,7 @@ const obj =
   Age: "##",
 };
 
-// #2 - Array
+#2 Array
 
 let arr = ["Priyansh", 00];
 

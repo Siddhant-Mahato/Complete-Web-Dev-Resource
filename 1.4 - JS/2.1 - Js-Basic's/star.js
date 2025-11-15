@@ -1,5 +1,4 @@
 console.log("Hello");
-
 let a = 8;
 
 {
@@ -8,6 +7,7 @@ let a = 8;
 }
 
 a = 11;
+
 console.log(a);
 
 
@@ -38,4 +38,5 @@ console.log(d);
 
 d = "SIDDHANT";
 console.log(d);
+
 

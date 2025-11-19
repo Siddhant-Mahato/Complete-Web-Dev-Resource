@@ -26,6 +26,7 @@ console.log(b);
 
 
 const c = 90;
+
 console.log(c);
 
 # // c = 900;
@@ -38,6 +39,7 @@ console.log(d);
 
 d = "SIDDHANT";
 console.log(d);
+
 
 
 

@@ -35,11 +35,13 @@ console.log(c);
 
 
 let d = 9;
+
 console.log(d);
 
 
 d = "SIDDHANT";
 console.log(d);
+
 
 
 

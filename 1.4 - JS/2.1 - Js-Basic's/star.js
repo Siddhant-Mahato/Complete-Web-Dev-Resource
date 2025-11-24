@@ -29,9 +29,9 @@ const c = 90;
 
 console.log(c);
 
-# // c = 900;
+# /// c = 900;
 
-# // console.log(c);  NOT POSSIBLE
+# /// console.log(c);  NOT POSSIBLE
 
 
 let d = 9;
@@ -42,6 +42,7 @@ console.log(d);
 d = "SIDDHANT";
 
 console.log(d);
+
 
 
 

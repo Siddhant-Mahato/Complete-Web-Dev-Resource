@@ -12,7 +12,7 @@ console.log(a);
 
 
 # let a = 90;
-# /// console.log(a);  // This can't be done in any programming language i.r redeclaration not allowed
+# /// console.log(a);  /// This can't be done in any programming language i.r redeclaration not allowed
 
 
 var b = 90;
@@ -42,6 +42,7 @@ console.log(d);
 d = "SIDDHANT";
 
 console.log(d);
+
 
 
 

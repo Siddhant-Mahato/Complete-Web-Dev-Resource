@@ -16,6 +16,7 @@ const rectangle =
     {
         console.log(`Area of Rectangle: ${rectangle.length * rectangle.breadth}`);
     }
+    
 }
 
 console.log(rectangle.length);

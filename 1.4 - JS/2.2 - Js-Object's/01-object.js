@@ -20,6 +20,7 @@ const rectangle =
 }
 
 console.log(rectangle.length);
+
 console.log(rectangle.breadth);
 rectangle.draw();
 rectangle.area();

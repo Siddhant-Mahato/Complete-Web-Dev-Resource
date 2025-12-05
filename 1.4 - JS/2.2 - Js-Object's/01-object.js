@@ -9,7 +9,7 @@ const rectangle =
 
     draw : function()
     {
-        console.log("Drawing rectangle");
+        console.log("Drawing Rectangle");
     },
 
     area : function()

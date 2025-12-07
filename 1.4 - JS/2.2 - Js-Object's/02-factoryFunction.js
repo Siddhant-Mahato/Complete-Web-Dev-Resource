@@ -2,7 +2,8 @@
 
 function createRectangle() 
 {
-  const rectangle = {
+  const rectangle = 
+  {
     length: 2,
     breadth: 4,
 

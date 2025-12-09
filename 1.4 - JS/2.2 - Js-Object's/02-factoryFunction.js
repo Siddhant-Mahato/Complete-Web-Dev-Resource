@@ -12,7 +12,8 @@ function createRectangle()
       console.log("Drawing rectangle");
     },
 
-    area: function () {
+    area: function () 
+    {
       console.log(`Area of Rectangle: ${rectangle.length * rectangle.breadth}`);
     },
   };

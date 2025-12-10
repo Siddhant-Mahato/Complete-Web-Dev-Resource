@@ -2,6 +2,7 @@
 
 function createRectangle() 
 {
+  
   const rectangle = 
   {
     length: 2,
@@ -18,6 +19,7 @@ function createRectangle()
     },
   };
   return rectangle;
+  
 }
 
 let rectangle1 = createRectangle();

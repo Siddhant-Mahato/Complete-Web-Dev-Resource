@@ -24,4 +24,5 @@ function createRectangle()
 }
 
 let rectangle1 = createRectangle();
+
 console.log(rectangle1.length);

@@ -20,6 +20,7 @@ function createRectangle()
     },
     
   };
+  
   return rectangle;
   
 }

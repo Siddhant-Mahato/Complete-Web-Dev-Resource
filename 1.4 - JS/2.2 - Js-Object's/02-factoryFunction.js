@@ -7,6 +7,7 @@ function createRectangle()
   {
     
     length: 2,
+    
     breadth: 4,
 
     draw: function () 

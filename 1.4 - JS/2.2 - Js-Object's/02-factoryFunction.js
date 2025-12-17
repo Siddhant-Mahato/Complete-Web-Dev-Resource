@@ -12,7 +12,9 @@ function createRectangle()
 
     draw: function () 
     {
+      
       console.log("Drawing rectangle");
+      
     },
 
     area: function () 

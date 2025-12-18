@@ -1,7 +1,8 @@
 // Factory Function is a fucntion which produces objects when we called it.
 
 
-function createRectangle(length,breadth) {
+function createRectangle(length,breadth) 
+{
   const rectangle = {
     length,
     breadth,
@@ -14,7 +15,9 @@ function createRectangle(length,breadth) {
       console.log(`Area of Rectangle: ${rectangle.length * rectangle.breadth}`);
     },
   };
+  
   return rectangle;
+  
 }
 
 

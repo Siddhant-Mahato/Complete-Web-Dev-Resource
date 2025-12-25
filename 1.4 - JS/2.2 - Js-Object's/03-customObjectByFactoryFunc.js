@@ -37,4 +37,5 @@ rectangle1.area();
 let rectangle2 = createRectangle(15,60);
 
 console.log(rectangle2.length);
+
 rectangle2.area();

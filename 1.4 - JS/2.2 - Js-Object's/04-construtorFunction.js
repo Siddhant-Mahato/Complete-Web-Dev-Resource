@@ -1,6 +1,7 @@
 # Function Stat
 
-function Employee(name,age,colony,street) {
+function Employee(name,age,colony,street) 
+{
     this.name = name;
     this.age = age;
 

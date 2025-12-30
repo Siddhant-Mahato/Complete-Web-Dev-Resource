@@ -16,5 +16,6 @@ function Employee(name,age,colony,street)
 }
 
 let emp1 = new Employee("Harshit Devda",69,"L.Lasan");
+
 console.log(emp1.name);
 console.log(emp1.address.colony);

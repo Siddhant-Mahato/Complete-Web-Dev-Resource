@@ -12,6 +12,7 @@ function Employee(name,age,colony,street)
         street,
         colony,
     }
+    
 }
 
 let emp1 = new Employee("Harshit Devda",69,"L.Lasan");

@@ -1,7 +1,8 @@
 
 function Rectangle(length,breadth)
 {
-    const rectangle = {
+    const rectangle = 
+    {
         length,
         breadth,
     
@@ -9,6 +10,7 @@ function Rectangle(length,breadth)
             console.log("Drawing rectangle");
         },
     }
+    
     return rectangle;
 }
 

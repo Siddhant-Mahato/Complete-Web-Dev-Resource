@@ -4,6 +4,7 @@ function Rectangle(length,breadth)
     const rectangle = 
     {
         length,
+        
         breadth,
     
         draw : function(){

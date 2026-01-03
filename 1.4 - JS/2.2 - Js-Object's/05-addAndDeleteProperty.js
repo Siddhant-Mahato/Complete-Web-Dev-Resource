@@ -19,6 +19,7 @@ function Rectangle(length,breadth)
 let rectangle1 = Rectangle(10,20);
 
 // Add Property in Object 
+
 rectangle1.area = rectangle1.length * rectangle1.breadth;
 
 console.log(rectangle1.length);

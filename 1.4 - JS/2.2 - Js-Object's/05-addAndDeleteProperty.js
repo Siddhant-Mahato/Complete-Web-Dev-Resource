@@ -7,7 +7,8 @@ function Rectangle(length,breadth)
         
         breadth,
     
-        draw : function(){
+        draw : function()
+        {
             console.log("Drawing rectangle");
         },
     }

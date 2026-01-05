@@ -11,6 +11,7 @@ function Rectangle(length,breadth)
         {
             console.log("Drawing rectangle");
         },
+        
     }
     
     return rectangle;

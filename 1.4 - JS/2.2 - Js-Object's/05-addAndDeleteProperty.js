@@ -26,6 +26,7 @@ rectangle1.area = rectangle1.length * rectangle1.breadth;
 console.log(rectangle1.length);
 
 console.log(rectangle1.breadth);
+
 console.log(rectangle1.area);
 console.log(rectangle1);
 

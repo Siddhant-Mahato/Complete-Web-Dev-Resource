@@ -28,6 +28,7 @@ console.log(rectangle1.length);
 console.log(rectangle1.breadth);
 
 console.log(rectangle1.area);
+
 console.log(rectangle1);
 
 // Now remove properties from Objec

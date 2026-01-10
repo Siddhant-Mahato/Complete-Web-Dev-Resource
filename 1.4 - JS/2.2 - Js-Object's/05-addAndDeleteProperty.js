@@ -34,4 +34,5 @@ console.log(rectangle1);
 // Now remove properties from Object
 
 delete rectangle1.area;
+
 console.log(rectangle1);

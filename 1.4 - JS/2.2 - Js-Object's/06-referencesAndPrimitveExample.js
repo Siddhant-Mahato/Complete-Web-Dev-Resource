@@ -1,4 +1,5 @@
 // Primitive Make Copy 
+
 let a = 10;
 let b = a;
 

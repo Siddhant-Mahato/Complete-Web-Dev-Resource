@@ -7,6 +7,7 @@ let b = a;
 a++;
 
 console.log(a); //11
+
 console.log(b); //10
 
 // Reference Points Memory Location 

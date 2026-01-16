@@ -13,6 +13,7 @@ console.log(b); //10
 // Reference Points Memory Location 
 
 let c = {value:10};
+
 let d = c;
 
 c.value++;

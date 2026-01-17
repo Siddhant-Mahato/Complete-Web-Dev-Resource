@@ -17,6 +17,7 @@ let c = {value:10};
 let d = c;
 
 c.value++;
+
 console.log(c.value) //11
 console.log(d.value) //11
 

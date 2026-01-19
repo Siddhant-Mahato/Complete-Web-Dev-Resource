@@ -1,6 +1,7 @@
 
 const Employee = 
 {
+    
     name : "NameofEmployee",
     age : 15,
 
@@ -9,6 +10,7 @@ const Employee =
         colony : "L_LASAN",
         district : "No Way Home",
     }
+    
 }
 
 for(let key in Employee){

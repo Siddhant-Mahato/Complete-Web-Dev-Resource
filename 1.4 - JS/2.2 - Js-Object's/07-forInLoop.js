@@ -1,5 +1,6 @@
 
-const Employee = {
+const Employee = 
+{
     name : "NameofEmployee",
     age : 15,
 

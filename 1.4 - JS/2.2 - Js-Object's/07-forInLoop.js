@@ -5,7 +5,8 @@ const Employee =
     name : "NameofEmployee",
     age : 15,
 
-    address : {
+    address : 
+    {
         street : 69,
         colony : "L_LASAN",
         district : "No Way Home",

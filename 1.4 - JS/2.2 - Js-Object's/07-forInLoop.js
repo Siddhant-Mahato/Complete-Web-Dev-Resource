@@ -14,7 +14,8 @@ const Employee =
     
 }
 
-for(let key in Employee){
+for(let key in Employee)
+{
     console.log(key, Employee[key]);
 }
 

@@ -1,4 +1,5 @@
 let arr = ["MyName","is","Priyansh","Patel"];
+
 for(let key of arr) {
     console.log(key);
 }

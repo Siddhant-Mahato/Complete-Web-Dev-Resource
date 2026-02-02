@@ -19,7 +19,8 @@ const rectangle =
   
 };
 
-if ("length" in rectangle) {
+if ("length" in rectangle) 
+{
   console.log("Length Property Exists in Rectangle");
 } else {
   console.log("Absent");

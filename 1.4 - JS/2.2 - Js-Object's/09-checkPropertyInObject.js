@@ -1,3 +1,5 @@
+# Eg for Property Check In An Object
+
 const rectangle = 
 {
   

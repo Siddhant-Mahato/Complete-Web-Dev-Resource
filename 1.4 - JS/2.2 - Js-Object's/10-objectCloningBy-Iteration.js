@@ -14,6 +14,7 @@ const rectangle =
 }
 
 console.log("Rectangle");
+
 console.log(rectangle);
 
 const duplicate = {};

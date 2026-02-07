@@ -18,6 +18,7 @@ console.log("Rectangle");
 console.log(rectangle);
 
 const duplicate = {};
+
 for(let key in rectangle)
 {
     duplicate[key] = rectangle[key];

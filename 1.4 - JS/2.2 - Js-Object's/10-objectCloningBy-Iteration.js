@@ -26,4 +26,5 @@ for(let key in rectangle)
 }
 
 console.log("Duplicates");
+
 console.log(duplicate);

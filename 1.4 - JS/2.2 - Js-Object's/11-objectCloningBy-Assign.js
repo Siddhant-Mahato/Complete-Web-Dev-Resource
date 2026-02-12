@@ -1,3 +1,5 @@
+# Concept Of Object Cloning 
+
 const rectangle = 
 {
   

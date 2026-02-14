@@ -1,4 +1,4 @@
-# Concept Of Object Cloning 
+# Concept Of Object Cloning Via Example
 
 const rectangle = 
 {
@@ -16,6 +16,7 @@ const rectangle =
   {
     console.log(`Area of Rectangle: ${rectangle.length * rectangle.breadth}`);
   },
+  
 };
 
 console.log("Duplicates");

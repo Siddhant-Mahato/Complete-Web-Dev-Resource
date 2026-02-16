@@ -22,4 +22,5 @@ const rectangle =
 console.log("Duplicates");
 
 const duplicate = Object.assign({}, rectangle);
+
 console.log(duplicate);

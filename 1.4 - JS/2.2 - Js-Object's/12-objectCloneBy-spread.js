@@ -1,4 +1,7 @@
-const rectangle = {
+# Object Clone Via Spread Operator
+
+const rectangle = 
+{
     length: 2,
     breadth: 4,
   

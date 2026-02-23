@@ -18,6 +18,7 @@ const rectangle =
   };
   
   console.log("Duplicates");
+
   const duplicate = {...rectangle};
   console.log(duplicate);
   

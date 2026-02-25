@@ -1,4 +1,4 @@
-// console.log("Lecture2 Start of JS");
+console.log("Start Of Javascript");
 
 // const rectangle = {
 //     "length" : 1, //property

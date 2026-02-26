@@ -1,4 +1,4 @@
-console.log("Start Of Javascript");
+console.log("Start Of Javascript with ease");
 
 // const rectangle = {
 //     "length" : 1, //property

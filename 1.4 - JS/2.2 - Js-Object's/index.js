@@ -31,7 +31,7 @@ console.log("Start Of Javascript with ease");
 // // let newRectangle = createRectangle();
 // // newRectangle.draw();
 
-// // #Custom Value 
+// Custom Value -
 // function createRectangle(length,breadth)
 // {
 //     const rectangle = {

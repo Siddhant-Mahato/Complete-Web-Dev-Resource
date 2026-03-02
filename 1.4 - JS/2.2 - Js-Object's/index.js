@@ -14,7 +14,7 @@ console.log("Start Of Javascript with ease");
 // console.log(rectangle.length); // 1
 // rectangle.draw(); //Rectangle Drawing
 
-// //Factory Function
+// Factory Function -
 // // function createRectangle()
 // // {
 // //     const rectangle = {

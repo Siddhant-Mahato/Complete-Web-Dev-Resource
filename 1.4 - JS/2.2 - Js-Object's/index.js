@@ -52,7 +52,8 @@ console.log("Start Of Javascript with ease");
 // let rect2 = createRectangle(2,1);
 // rect2.draw();
 
-// // Constructor Function 
+// Constructor Function -
+
 // function Car(color,weight)
 // {
 //     this.color = color;

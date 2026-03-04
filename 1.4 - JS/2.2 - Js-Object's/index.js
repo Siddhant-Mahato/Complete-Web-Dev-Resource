@@ -15,6 +15,7 @@ console.log("Start Of Javascript with ease");
 // rectangle.draw(); //Rectangle Drawing
 
 // Factory Function -
+
 // // function createRectangle()
 // // {
 // //     const rectangle = {
@@ -32,6 +33,7 @@ console.log("Start Of Javascript with ease");
 // // newRectangle.draw();
 
 // Custom Value -
+
 // function createRectangle(length,breadth)
 // {
 //     const rectangle = {

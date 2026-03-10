@@ -4,7 +4,7 @@ console.log("Start Of Javascript with ease");
      "length" : 1, //property
      "breadth" : 2, //Property
 
-//     draw : function(){
+     draw : function(){
 //         console.log("Rectangle Drawing");
 //     }
 // }

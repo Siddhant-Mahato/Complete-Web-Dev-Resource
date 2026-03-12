@@ -6,7 +6,7 @@ console.log("Start Of Javascript with ease");
 
      draw : function(){
         console.log("Rectangle Drawing");
-//     }
+     }
 // }
 
 // Access - 

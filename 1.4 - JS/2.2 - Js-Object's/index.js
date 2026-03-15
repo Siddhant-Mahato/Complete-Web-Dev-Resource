@@ -11,7 +11,7 @@ console.log("Start Of Javascript with ease");
 
 # Access - 
 
-// console.log(rectangle.length); // 1
+ console.log(rectangle.length); // 1
 // rectangle.draw(); //Rectangle Drawing
 
 // Factory Function -

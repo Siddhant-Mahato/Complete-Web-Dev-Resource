@@ -17,7 +17,7 @@ rectangle.draw(); //Rectangle Drawing
 # Factory Function -
 
 function createRectangle()
-// {
+{
 // //     const rectangle = {
 // //         "length" : 1, //property
 // //         "breadth" : 2, //Property

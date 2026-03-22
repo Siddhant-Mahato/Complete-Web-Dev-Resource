@@ -18,7 +18,7 @@ rectangle.draw(); //Rectangle Drawing
 
 function createRectangle()
 {
-// //     const rectangle = {
+ //     const rectangle = {
 // //         "length" : 1, //property
 // //         "breadth" : 2, //Property
     

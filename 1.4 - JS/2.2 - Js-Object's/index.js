@@ -21,7 +21,7 @@ function createRectangle()
     const rectangle = 
     {
        "length" : 1, //property
-//         "breadth" : 2, //Property
+       "breadth" : 2, //Property
     
 // //         draw : function(){
 // //             console.log("Rectangle Drawing");

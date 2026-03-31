@@ -23,8 +23,9 @@ function createRectangle()
        "length" : 1, //property
        "breadth" : 2, //Property
     
-       draw : function(){
-//              console.log("Rectangle Drawing");
+       draw : function()
+       {
+          console.log("Rectangle Drawing");
 // //         }
 // //     }
 // //     return rectangle;

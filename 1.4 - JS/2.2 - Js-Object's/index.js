@@ -26,7 +26,7 @@ function createRectangle()
        draw : function()
        {
           console.log("Rectangle Drawing");
-//         }
+       }
 // //     }
 // //     return rectangle;
 // // }

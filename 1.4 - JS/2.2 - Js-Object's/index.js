@@ -27,7 +27,7 @@ function createRectangle()
        {
           console.log("Rectangle Drawing");
        }
- //     }
+    }
 // //     return rectangle;
 // // }
 

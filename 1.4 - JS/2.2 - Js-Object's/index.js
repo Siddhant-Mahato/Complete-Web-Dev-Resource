@@ -29,7 +29,7 @@ function createRectangle()
        }
     }
     return rectangle;
- // }
+}
 
 // // let newRectangle = createRectangle();
 // // newRectangle.draw();

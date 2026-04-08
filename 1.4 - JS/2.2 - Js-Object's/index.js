@@ -31,7 +31,7 @@ function createRectangle()
     return rectangle;
 }
 
-// // let newRectangle = createRectangle();
+ // let newRectangle = createRectangle();
 // // newRectangle.draw();
 
 // Custom Value -

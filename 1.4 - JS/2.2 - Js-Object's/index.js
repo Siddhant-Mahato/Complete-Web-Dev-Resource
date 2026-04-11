@@ -32,7 +32,7 @@ function createRectangle()
 }
 
 let newRectangle = createRectangle();
- // newRectangle.draw();
+newRectangle.draw();
 
 // Custom Value -
 

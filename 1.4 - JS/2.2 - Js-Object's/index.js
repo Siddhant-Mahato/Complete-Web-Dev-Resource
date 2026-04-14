@@ -36,7 +36,7 @@ newRectangle.draw();
 
 # Custom Value -
 
-// function createRectangle(length,breadth)
+function createRectangle(length,breadth)
 // {
 //     const rectangle = {
         

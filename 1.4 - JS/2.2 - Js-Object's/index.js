@@ -38,7 +38,7 @@ newRectangle.draw();
 
 function createRectangle(length,breadth)
 {
-//     const rectangle = {
+    const rectangle = {
         
 //         length,
 //         breadth,

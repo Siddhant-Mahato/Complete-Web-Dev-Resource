@@ -42,7 +42,7 @@ function createRectangle(length,breadth)
           length,
           breadth,
           draw : function(){
-//             console.log(`Rectangle Of Breadth : ${breadth} Length : ${length}`);
+               console.log(`Rectangle Of Breadth : ${breadth} Length : ${length}`);
 //         }
 //     }
 //     return rectangle;

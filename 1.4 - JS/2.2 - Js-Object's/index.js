@@ -41,9 +41,10 @@ function createRectangle(length,breadth)
     const rectangle = {
           length,
           breadth,
-          draw : function(){
+          draw : function()
+          {
                console.log(`Rectangle Of Breadth : ${breadth} Length : ${length}`);
-//         }
+          }
 //     }
 //     return rectangle;
 // }

@@ -48,7 +48,7 @@ function createRectangle(length,breadth)
           }
     }
     return rectangle;
-// }
+}
 
 // let rect1 = createRectangle(5,10);
 // rect1.draw();

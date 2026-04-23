@@ -47,7 +47,7 @@ function createRectangle(length,breadth)
                console.log(`Rectangle Of Breadth : ${breadth} Length : ${length}`);
           }
     }
-//     return rectangle;
+    return rectangle;
 // }
 
 // let rect1 = createRectangle(5,10);

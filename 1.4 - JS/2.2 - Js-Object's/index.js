@@ -1,8 +1,8 @@
 console.log("Start Of Javascript with ease");
 
 const rectangle = {
-     "length" : 1, //property
-     "breadth" : 2, //Property
+     "length" : 1, // property
+     "breadth" : 2, // Property
 
      draw : function(){
         console.log("Rectangle Drawing");

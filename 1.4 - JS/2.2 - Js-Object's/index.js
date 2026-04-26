@@ -51,7 +51,7 @@ function createRectangle(length,breadth)
 }
 
 let rect1 = createRectangle(5,10);
-// rect1.draw();
+rect1.draw();
 
 // let rect2 = createRectangle(2,1);
 // rect2.draw();

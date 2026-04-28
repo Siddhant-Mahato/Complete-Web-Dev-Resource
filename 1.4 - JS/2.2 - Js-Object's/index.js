@@ -54,7 +54,7 @@ let rect1 = createRectangle(5,10);
 rect1.draw();
 
 let rect2 = createRectangle(2,1);
-// rect2.draw();
+rect2.draw();
 
 // Constructor Function -
 

@@ -11,7 +11,7 @@ const rectangle = {
 
 # Access - 
 
-console.log(rectangle.length); // 1 will be printed on console
+console.log(rectangle.length); // 1 will be printed on the console
 rectangle.draw(); //Rectangle Drawing
 
 # Factory Function -

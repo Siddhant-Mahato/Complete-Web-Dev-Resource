@@ -59,7 +59,7 @@ rect2.draw();
 # Constructor Function -
 
 function Car(color,weight)
-// {
+{
 //     this.color = color;
 //     this.weight = weight;
 // }

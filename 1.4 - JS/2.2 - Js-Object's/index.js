@@ -60,7 +60,7 @@ rect2.draw();
 
 function Car(color,weight)
 {
-//     this.color = color;
+     this.color = color;
 //     this.weight = weight;
 // }
 

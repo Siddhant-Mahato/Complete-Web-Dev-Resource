@@ -64,7 +64,7 @@ function Car(color,weight)
      this.weight = weight;
 }
 
-// const bmw = new Car("red",400);
+const bmw = new Car("red",400);
 
 // console.log(bmw.color);
 

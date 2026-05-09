@@ -12,7 +12,7 @@ const rectangle = {
 # Access - 
 
 console.log(rectangle.length); // 1 will be printed on the console
-rectangle.draw(); //Rectangle Drawing
+rectangle.draw(); // Rectangle Drawing
 
 # Factory Function -
 
@@ -68,7 +68,7 @@ const bmw = new Car("Red",400);
 console.log(bmw.color);
 
 bmw.model = "BMW3";
-// console.log(bmw);
+console.log(bmw);
 
 // delete bmw.model;
 // console.log(bmw);

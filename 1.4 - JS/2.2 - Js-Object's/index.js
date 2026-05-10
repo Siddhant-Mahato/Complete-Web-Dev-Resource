@@ -70,7 +70,7 @@ console.log(bmw.color);
 bmw.model = "BMW3";
 console.log(bmw);
 
-// delete bmw.model;
+delete bmw.model;
 // console.log(bmw);
 
 // Primitive types - 

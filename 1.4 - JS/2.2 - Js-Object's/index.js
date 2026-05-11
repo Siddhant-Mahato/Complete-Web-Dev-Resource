@@ -71,7 +71,7 @@ bmw.model = "BMW3";
 console.log(bmw);
 
 delete bmw.model;
-// console.log(bmw);
+console.log(bmw);
 
 // Primitive types - 
 

@@ -73,7 +73,7 @@ console.log(bmw);
 delete bmw.model;
 console.log(bmw);
 
-// Primitive types - 
+Primitive types - 
 
 // let a = 10;
 // let b = a;

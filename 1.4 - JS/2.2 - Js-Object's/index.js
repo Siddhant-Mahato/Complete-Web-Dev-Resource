@@ -76,7 +76,7 @@ console.log(bmw);
 # Primitive types - 
 
 let a = 10;
-// let b = a;
+let b = a;
 // a++;
 // console.log(a, b);
 

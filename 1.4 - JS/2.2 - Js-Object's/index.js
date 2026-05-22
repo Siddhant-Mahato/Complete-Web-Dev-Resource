@@ -82,7 +82,7 @@ console.log(a, b);
 
 # Referene Types -
 
-// let aa = {value : 10};
+let aa = {value : 10};
 // let bb = aa;
 // aa.value++;
 // console.log(aa, bb);

@@ -84,7 +84,7 @@ console.log(a, b);
 
 let aa = {value : 10};
 let bb = aa;
-// aa.value++;
+aa.value++;
 // console.log(aa, bb);
 
 

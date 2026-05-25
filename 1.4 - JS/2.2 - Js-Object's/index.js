@@ -85,7 +85,7 @@ console.log(a, b);
 let aa = {value : 10};
 let bb = aa;
 aa.value++;
-// console.log(aa, bb);
+// console.log(aaa, bb);
 
 
 let Rectangle = {

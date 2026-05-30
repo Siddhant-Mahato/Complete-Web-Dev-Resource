@@ -88,7 +88,8 @@ aa.value++;
 console.log(aaa, bbb);
 
 
-let Rectangle = {
+let Rectangle = 
+{
     length : 10,
     breadth : 20
 }

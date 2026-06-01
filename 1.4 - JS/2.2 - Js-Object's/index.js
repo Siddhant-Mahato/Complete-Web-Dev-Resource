@@ -1,13 +1,14 @@
 console.log("Start Of the Javascript with ease");
 
-const rectangle = {
+const rectangle = 
+{
      "length" : 1, // property
      "breadth" : 2, // Property
 
      draw : function(){
         console.log("Rectangle Drawing");
      }
- }
+}
 
 # Access - 
 

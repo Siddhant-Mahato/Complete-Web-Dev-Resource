@@ -96,6 +96,7 @@ let Rectangle =
 }
 
 // for-in loop 
+
 for(let key in Rectangle)
 {
     console.log(key, Rectangle[key]);

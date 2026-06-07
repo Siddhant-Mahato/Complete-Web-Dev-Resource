@@ -67,7 +67,7 @@ function Car(color,weight)
      this.weight = weight;
 }
 
-const bmw = new Car("Red",400);
+const bmw = new Car("Red",500);
 console.log(bmw.color);
 
 bmw.model = "BMW3";

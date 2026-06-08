@@ -11,7 +11,7 @@ const rectangle =
      }
 }
 
-# Access - 
+# Access :- 
 
 console.log(rectangle.length); // 1 gonna be printed on the console itself
 

@@ -17,7 +17,7 @@ console.log(rectangle.length); // 1 gonna be printed on the console itself
 
 rectangle.draw(); // For Rectangle Drawing
 
-# Factory Function -
+# Factory Function :-
 
 function createRectangle()
 {

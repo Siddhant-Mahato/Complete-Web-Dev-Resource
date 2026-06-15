@@ -120,6 +120,7 @@ if('length' in Rectangle)
 {
     console.log("Present")
 }
-else{
+else
+{
     console.log("Absent");
 }

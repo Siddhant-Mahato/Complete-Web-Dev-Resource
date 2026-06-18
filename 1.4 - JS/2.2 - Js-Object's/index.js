@@ -97,7 +97,7 @@ let Rectangle =
     breadth : 20
 }
 
-# for-in loop 
+# for-in loop :-
 
 for(let key in Rectangle)
 {

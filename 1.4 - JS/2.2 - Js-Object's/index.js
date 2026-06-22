@@ -105,6 +105,7 @@ for(let key in Rectangle)
 }
 
 # for-of loop 
+
 for(let i of Object.keys(Rectangle))
 {
     console.log(i, Rectangle[i]);

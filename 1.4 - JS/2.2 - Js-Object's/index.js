@@ -112,6 +112,7 @@ for(let i of Object.keys(Rectangle))
 }
 
 let arr = [10,20,30,40]
+
 for(let i in arr)
 {
     console.log(arr[i]);

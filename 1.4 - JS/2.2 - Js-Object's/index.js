@@ -120,7 +120,7 @@ for(let i in arr)
 
 if('length' in Rectangle)
 {
-    console.log("Present")
+    console.log("Present there")
 }
 else
 {

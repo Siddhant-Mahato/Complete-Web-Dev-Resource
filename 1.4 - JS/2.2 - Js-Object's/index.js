@@ -124,5 +124,5 @@ if('length' in Rectangle)
 }
 else
 {
-    console.log("Absent");
+    console.log("Absent there");
 }

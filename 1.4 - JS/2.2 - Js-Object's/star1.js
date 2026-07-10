@@ -1,7 +1,8 @@
 
 function createRec() 
 {
-        let Rec = {
+        let Rec = 
+        {
 //         length: 2,
 //         breadth: 4,
 

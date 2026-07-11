@@ -3,7 +3,7 @@ function createRec()
 {
         let Rec = 
         {
-//         length: 2,
+                length: 2,
 //         breadth: 4,
 
         // draw: function () {

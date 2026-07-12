@@ -4,7 +4,7 @@ function createRec()
         let Rec = 
         {
                 length: 2,
-//         breadth: 4,
+                breadth: 4,
 
         // draw: function () {
         // console.log("Drawing rectangle");

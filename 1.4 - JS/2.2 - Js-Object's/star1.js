@@ -5,7 +5,8 @@ function createRec()
         {
                 length: 2,
                 breadth: 4,
-                draw: function () {
+                draw: function ()
+                {
                         console.log("Drawing rectangle");
         // }
 //     };

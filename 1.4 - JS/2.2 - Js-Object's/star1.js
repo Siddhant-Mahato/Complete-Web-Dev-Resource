@@ -8,7 +8,7 @@ function createRec()
                 draw: function ()
                 {
                         console.log("Drawing rectangle");
-        / }
+                }
 //     };
 
 //     return Rec

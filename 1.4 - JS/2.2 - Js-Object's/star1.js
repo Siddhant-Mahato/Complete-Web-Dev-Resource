@@ -9,7 +9,7 @@ function createRec()
                 {
                         console.log("Drawing rectangle");
                 }
-/     };
+        };
 
 //     return Rec
 // }

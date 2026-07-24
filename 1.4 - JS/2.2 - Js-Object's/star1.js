@@ -11,7 +11,7 @@ function createRec()
                 }
         };
         return Rec
-// }
+/ }
 
 // let rec1 = createRec();
 // console.log(rec1.length);

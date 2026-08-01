@@ -18,7 +18,8 @@ console.log(rec1.length);
 console.log(rec1.draw());
 
 
-function Rec(len,bre) {
+function Rec(len,bre) 
+{
     this.length = len,
     this.breath = bre,
 

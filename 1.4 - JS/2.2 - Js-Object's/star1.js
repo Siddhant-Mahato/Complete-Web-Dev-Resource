@@ -23,7 +23,8 @@ function Rec(len,bre)
     this.length = len,
     this.breath = bre,
 
-    this.draw = function(){
+    this.draw = function()
+    {
         console.log("Star");
     }
 }

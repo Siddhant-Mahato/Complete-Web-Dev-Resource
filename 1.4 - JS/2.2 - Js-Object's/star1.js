@@ -10,10 +10,11 @@ function createRec()
                         console.log("Drawing rectangle");
                 }
         };
-        return Rec
+        return Rec;
 }
 
 let rec1 = createRec();
+
 console.log(rec1.length);
 console.log(rec1.draw());
 

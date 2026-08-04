@@ -16,6 +16,7 @@ function createRec()
 let rec1 = createRec();
 
 console.log(rec1.length);
+
 console.log(rec1.draw());
 
 

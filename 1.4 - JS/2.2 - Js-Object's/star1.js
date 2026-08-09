@@ -28,7 +28,7 @@ function Rec(len,bre)
 
     this.draw = function()
     {
-        console.log("Star Sid");
+        console.log("Star Sidd");
     }
 }
 

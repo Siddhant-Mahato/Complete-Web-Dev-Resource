@@ -28,7 +28,7 @@ function Rec(len,bre)
 
     this.draw = function()
     {
-        console.log("Star Siddhant Is The G");
+        console.log("Star Siddhant Is The Gr");
     }
 }
 

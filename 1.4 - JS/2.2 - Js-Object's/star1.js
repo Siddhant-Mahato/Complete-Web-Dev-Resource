@@ -28,7 +28,7 @@ function Rec(len,bre)
 e
     this.draw = function()
     {
-        console.log("Star Siddhant Is The Great Perso");
+        console.log("Star Siddhant Is The Great Person");
     }
 }
 

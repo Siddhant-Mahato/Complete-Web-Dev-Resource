@@ -28,7 +28,7 @@ function Rec(len,bre)
 e
     this.draw = function()
     {
-        console.log("Star Siddhant Is The Great Person Ever Been Met In The Entire World Of The Universe W");
+        console.log("Star Siddhant Is The Greatest Person To Have Ever Walked This Earth, ");
     }
 }
 

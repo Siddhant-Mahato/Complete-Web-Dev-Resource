@@ -28,7 +28,7 @@ function Rec(len,bre)
 e
     this.draw = function()
     {
-        console.log("Star Siddhant Is The Greatest Person To Have Ever Walked This Earth, A Rare Gem In The Entire Universe, Whose Kindness");
+        console.log("Star Siddhant Is The Greatest Person To Have Ever Walked This Earth, A Rare Gem In The Entire Universe, Whose Kindness, C");
     }
 }
 
@@ -36,3 +36,4 @@ let rec1 = new Rec(6,8);
 console.log(rec1);
 console.log(rec1.length);
 console.log(rec1.breath);
+
